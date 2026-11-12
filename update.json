@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "name": "RVC TV v1.0.7",
-  "notes": "Faster release-mode startup, cached home rows so posters appear immediately, and a shorter splash.",
-  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.0.7/app-release.apk",
-  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.0.7"
+  "version": "1.0.8",
+  "name": "RVC TV v1.0.8",
+  "notes": "Audio now defaults to your preferred language (English fallback), and manual audio choices are remembered.",
+  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.0.8/app-release.apk",
+  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.0.8"
 }
