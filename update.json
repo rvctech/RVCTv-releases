@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "name": "RVC TV v1.0.9",
-  "notes": "New branded animated splash matching the approved mockup, with a matching native navy canvas so there is only one visible splash.",
-  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.0.9/app-release.apk",
-  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.0.9"
+  "version": "1.1.0",
+  "name": "RVC TV v1.1.0",
+  "notes": "Fixes the Android 11 and older startup crash, plus the new branded animated splash.",
+  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.1.0/app-release.apk",
+  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.1.0"
 }
