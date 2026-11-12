@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "name": "RVC TV v1.0.8",
-  "notes": "Audio now defaults to your preferred language (English fallback), and manual audio choices are remembered.",
-  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.0.8/app-release.apk",
-  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.0.8"
+  "version": "1.0.9",
+  "name": "RVC TV v1.0.9",
+  "notes": "New branded animated splash matching the approved mockup, with a matching native navy canvas so there is only one visible splash.",
+  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.0.9/app-release.apk",
+  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.0.9"
 }
