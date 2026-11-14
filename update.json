@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "name": "RVC TV v1.3.4",
-  "notes": "Theme grid with 12 palettes, themed clock next to Search, a smaller hero, and Play/Resume auto-focus on Detail.",
-  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.3.4/app-release.apk",
-  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.3.4"
+  "version": "1.3.5",
+  "name": "RVC TV v1.3.5",
+  "notes": "Update checks now use the fresh GitHub Releases API first, with the static manifest only as a fallback.",
+  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.3.5/app-release.apk",
+  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.3.5"
 }
