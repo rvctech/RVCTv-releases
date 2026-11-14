@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "name": "RVC TV v1.2.1",
-  "notes": "Removes the voice search button; all other v1.2.0 visual upgrades remain.",
-  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.2.1/app-release.apk",
-  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.2.1"
+  "version": "1.3.0",
+  "name": "RVC TV v1.3.0",
+  "notes": "Resume/Start over, in-app trailers, next-episode autoplay, subtitle and audio preferences, source switcher, new discovery rows, actor search, My List, header clock, reduce-motion support and a baseline profile.",
+  "url": "https://github.com/rvctech/RVCTv-releases/releases/download/v1.3.0/app-release.apk",
+  "releaseUrl": "https://github.com/rvctech/RVCTv-releases/releases/tag/v1.3.0"
 }
